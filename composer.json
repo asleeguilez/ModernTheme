@@ -3,6 +3,6 @@
     "type": "symfony-bundle",
     "description": "Provides theming support for #Symfony2 Bundles",
     "keywords": ["themes", "theming"],
-    "license": "MIT",
+    "license": "MIT"
     
 }
