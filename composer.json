@@ -1,8 +1,11 @@
 {
-    "name": "liip/theme-bundle",
+    "name": "agg/theme-bundle-modern",
     "type": "symfony-bundle",
     "description": "Provides theming support for #Symfony2 Bundles",
     "keywords": ["themes", "theming"],
-    "license": "MIT"
+    "license": "MIT",
+	"require": {
+        "php": ">=5.5.9"
+    }
     
 }
